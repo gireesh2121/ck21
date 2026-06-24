@@ -1,0 +1,6 @@
+{
+  "name": "Cafe Bistro & Rewards",
+  "description": "A responsive, glassmorphic dark-themed cafe app featuring a dynamic menu, shopping cart, customer accounts, local loyalty program rewards, an interactive admin dashboard, and simulated or real EmailJS ordering.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
